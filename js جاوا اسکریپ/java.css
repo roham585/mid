@@ -1,0 +1,18 @@
+table,td,th{
+    border: 1px saddlebrown;
+    padding: 50px;
+    border: solid;
+}
+td,th{
+    width: 50px;
+
+}
+td{
+    font-size: 60px;
+    background-color: rgb(85, 85, 95);
+}
+th{
+    font-size: 40px;
+    background-color: rgb(85, 85, 93);
+}
+table{background-color: rgb(3, 3, 3);}
